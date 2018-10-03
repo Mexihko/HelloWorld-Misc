@@ -1,2 +1,4 @@
 # HelloWorld-Misc
-miscellaneous hello world code
+
+
+A short repository of miscellaneous hello world code.
